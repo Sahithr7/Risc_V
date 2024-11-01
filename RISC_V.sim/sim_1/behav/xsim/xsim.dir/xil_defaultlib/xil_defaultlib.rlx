@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/sahit/RISC_V/RISC_V.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/sahit/RISC_V/RISC_V.srcs/sim_1/new/risc_v_processor_tb.v,1729274081,verilog,,,,risc_v_processor_tb,,,,,,,,
+C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/alu.v,1729272959,verilog,,C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/alu_control.v,,alu,,,,,,,,
+C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/alu_control.v,1729273242,verilog,,C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/control_unit.v,,alu_control,,,,,,,,
+C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/control_unit.v,1729273199,verilog,,C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/data_memory.v,,control_unit,,,,,,,,
+C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/data_memory.v,1729273093,verilog,,C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/instruction_memory.v,,data_memory,,,,,,,,
+C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/instruction_memory.v,1729274442,verilog,,C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/pc.v,,instruction_memory,,,,,,,,
+C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/pc.v,1729272753,verilog,,C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/register_file.v,,pc,,,,,,,,
+C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/register_file.v,1729272870,verilog,,C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/risc_v_processor.v,,register_file,,,,,,,,
+C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/risc_v_processor.v,1729272755,verilog,,C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/sign_extender.v,,risc_v_processor,,,,,,,,
+C:/Users/sahit/RISC_V/RISC_V.srcs/sources_1/new/sign_extender.v,1729272956,verilog,,C:/Users/sahit/RISC_V/RISC_V.srcs/sim_1/new/risc_v_processor_tb.v,,sign_extender,,,,,,,,
